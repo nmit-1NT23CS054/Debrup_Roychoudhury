@@ -49,7 +49,7 @@ Third-year undergraduate student pursuing a **B.Tech in Computer Science and Eng
 **Technologies:** Python, NumPy, Matplotlib, NetworkX  
 
 - Designed and implemented a **simulation system for emergency building evacuation** using multi-agent crowd movement models.  
-- Implemented the **A* pathfinding algorithm** to determine optimal evacuation routes.  
+- Implemented the ** A* pathfinding algorithm** to determine optimal evacuation routes.  
 - Modeled the building environment as a **grid graph using NetworkX**.  
 - Created animated visualizations using **Matplotlib** to demonstrate evacuation progress.  
 - Simulated evacuation scenarios involving **60+ agents with real-time tracking**.
